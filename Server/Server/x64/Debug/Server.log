@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Y7EA\Desktop\TCP\Server\Server\main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Y7EA\Desktop\TCP\Server\Server\main.cpp(100,8): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Y7EA\Desktop\TCP\Server\Server\main.cpp(117,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Y7EA\Desktop\TCP\Server\Server\main.cpp(121,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\Y7EA\Desktop\TCP\Server\x64\Debug\Server.exe
