@@ -1,5 +1,4 @@
-# tcp-server-client
-### Title: Student Search Server
+# Title: Student Search Server
 
 # Description:
 This project implements a server that listens for incoming client connections, receives a search query from the client, and searches for the query in a data file containing student records. The server returns the result to the client if the search query is found, and sends a message indicating that the search query was not found if it is not present in the data file.
